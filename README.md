@@ -52,7 +52,7 @@ python skill_exchange.py
 | -------- | -------- |
 | admin    | 1234     |
 
-> Users can also register new accounts during program execution.
+
 
 ---
 
